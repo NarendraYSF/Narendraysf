@@ -11,7 +11,7 @@ Hello, I'm Narendra Yusuf Khaerudin, a passionate UI/UX designer and freelance d
 
 - 🌱 I’m currently learning **Image Automation in Selenium**
 
-- 📝 I regularly write articles on [narendra-blog.netlify.app](narendra-blog.netlify.app)
+- 📝 I regularly write articles on (narendra-blog.netlify.app)
 
 - 💬 Ask me about **UI/UX Designing, Python, Node JS**
 
