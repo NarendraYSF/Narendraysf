@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Yusuf</h1>
-<h3 align="center">A passionate frontend developer, designer and artist</h3>
+<h3 align="center">A passionate all in one Developer, designer and artist</h3>
 
 <p align="center">
   <img src="banner.gif"/>
