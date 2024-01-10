@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Narendra Yusuf</h1>
 <h3 align="center">A passionate frontend developer and designer</h3>
 
+![image](https://github.com/NarendraYSF/Narendraysf/assets/70837264/703e5652-112b-47b3-8f9d-41dcb597a29e)
+
 - 🔭 I’m currently working on a 3D Unity Game **Algorithmic Odyssey**
 
 <h3 align="left">Connect with me:</h3>
