@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and designer</h3>
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://i.imgur.com/0h3vuUT.gif)" />
+  <img src="https://i.imgur.com/0h3vuUT.gif"/>
 </p>
 
 - 🔭 I’m currently working on a 3D Unity Game **Algorithmic Odyssey**
