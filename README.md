@@ -1,4 +1,4 @@
-![image](https://github.com/NarendraYSF/Narendraysf/assets/70837264/4b778d6b-39e4-427b-8663-f33b0241196d)<h1 align="center">Hi 👋, I'm Narendra Yusuf</h1>
+<h1 align="center">Hi 👋, I'm Narendra Yusuf</h1>
 <h3 align="center">A passionate frontend developer and designer</h3>
 
 <p style="text-align: center"><img src="[https://files.document360.io/filename/folder/subfolder/imagename.pn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.planetminecraft.com%2Fskin%2Fvanilla-nekopara-4308338%2F&psig=AOvVaw3RlWYjqgG6eXLpt2RC5rKT&ust=1704983301101000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiwu_aD04MDFQAAAAAdAAAAABAH)g"></p>
