@@ -9,7 +9,7 @@ Hello, I'm Narendra Yusuf Khaerudin, a passionate UI/UX designer and freelance d
 
 - 🔭 I’m currently working on a 3D Unity Game **Algorithmic Odyssey**
 
-- 🌱 I’m currently learning **image automation in selenium automation**
+- 🌱 I’m currently learning **Image Automation in Selenium**
 
 - 📝 I regularly write articles on [narendra-blog.netlify.app](narendra-blog.netlify.app)
 
@@ -17,7 +17,7 @@ Hello, I'm Narendra Yusuf Khaerudin, a passionate UI/UX designer and freelance d
 
 - 📫 How to reach me **rendra.narendrayusuf@gmail.com**
 
-- ⚡ Fun fact **I Get a little quirky at night :3**
+- ⚡ Fun fact **I get a little quirky at night :3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
