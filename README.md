@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and designer</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/0h3vuUT.gif"/>
+  <img src="https://media1.tenor.com/m/o68aTwkiyloAAAAC/neko-nekopara.gif"/>
 </p>
 
 - 🔭 I’m currently working on a 3D Unity Game **Algorithmic Odyssey**
