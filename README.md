@@ -9,6 +9,16 @@ Hello, I'm Narendra Yusuf Khaerudin, a passionate UI/UX designer and freelance d
 
 - 🔭 I’m currently working on a 3D Unity Game **Algorithmic Odyssey**
 
+- 🌱 I’m currently learning **image automation in selenium automation**
+
+- 📝 I regularly write articles on [narendra-blog.netlify.app](narendra-blog.netlify.app)
+
+- 💬 Ask me about **UI/UX Designing, Python, Node JS**
+
+- 📫 How to reach me **rendra.narendrayusuf@gmail.com**
+
+- ⚡ Fun fact **I Get a little quirky at night :3**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nrndrysf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nrndrysf" height="30" width="40" /></a>
