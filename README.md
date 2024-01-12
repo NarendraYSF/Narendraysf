@@ -5,7 +5,7 @@
   <img src="banner.gif"/>
 </p>
 
-Hello, I'm Narendra Yusuf Khaerudin, a passionate UI/UX designer and freelance developer based in Indonesia. With a keen eye for aesthetics and a love for technology, I bring a unique blend of creativity and technical expertise to every project. As a seasoned freelancer, I've successfully collaborated with diverse clients, delivering tailor-made solutions that not only meet but exceed expectations.
+Hello, I'm Narendra Yusuf Khaerudin, a passionate UI/UX designer and freelance developer based in Indonesia. With a keen eye for aesthetics and a love for technology, I bring a unique blend of creativity and technical expertise to every project. As a seasoned freelancer, I've successfully collaborated with diverse clients, delivering tailor-made solutions that not only meet exceed expectations.
 
 - 🔭 I’m currently working on a 3D Unity Game **Algorithmic Odyssey**
 
