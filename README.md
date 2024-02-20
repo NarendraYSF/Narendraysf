@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Yusuf</h1>
-<h3 align="center">A passionate all in one developer, designer and artist</h3>
+<h3 align="center">A passionate all in one developer, designer, artist and IT technician</h3>
 <p align="center">
   <img src="banner.gif">
 </p>
@@ -7,7 +7,7 @@ Hello, I'm Narendra Yusuf Khaerudin, a passionate UI/UX designer and freelance d
 
 - 🔭 I’m currently working on a 3D Unity Game **Algorithmic Odyssey**
 
-- 🌱 I’m currently learning **Image Automation in Selenium**
+- 🌱 I’m currently learning **System Administration**
 
 - 📝 I regularly write articles on [narendra-blog.netlify.app](https://narendra-blog.netlify.app/)
 
