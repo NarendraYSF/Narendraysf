@@ -13,7 +13,7 @@ Hello, I'm Narendra Yusuf Khaerudin, a passionate UI/UX designer and freelance d
 
 - 📝 I regularly write articles on [narendra-blog.netlify.app](https://narendra-blog.netlify.app/)
 
-- 💬 Ask me about **UI/UX Designing, Python, Node JS**
+- 💬 Ask me about **PC Building, UI/UX Designing, Python, Node JS**
 
 - 📫 How to reach me **rendra.narendrayusuf@gmail.com**
 
