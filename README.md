@@ -19,7 +19,7 @@ Hello, I'm Narendra Yusuf Khaerudin, a passionate UI/UX designer and freelance d
 
 - ⚡ Fun fact **I get a little quirky at night :3**
 
-- 📧 Contact me in **UTC (+7:00)** working time
+- 🕒 Contact me in **UTC (+7:00)** working time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
