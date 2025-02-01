@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narendra Yusuf</h1>
 <h3 align="center">A passionate all in one developer, designer, artist and IT technician</h3>
 <p align="center">
-  <img src="banner.gif">
+  <img src="ezgif-5649e48749d9d.gif">
 </p>
 Partially Available
 
