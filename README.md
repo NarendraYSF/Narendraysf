@@ -20,7 +20,7 @@ Hello, I'm Narendra, a passionate Designer and open source developer based. With
 
 - 🕒 Contact me in **UTC (+7:00)** working time
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mmccaff)](https://github.com/mmccaff/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraYSF&hide=css,html&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
