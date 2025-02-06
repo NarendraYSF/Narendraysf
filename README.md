@@ -8,7 +8,7 @@ Hello, I'm Narendra, a passionate Designer and open source developer based. With
 
 - 🔭 I’m currently working on a **Generative Adversarial Networks (GANs) Using TensorFlow**
 
-- 🌱 I’m currently learning **System Administration**
+- 🌱 I’m currently learning **Rust**
 
 - 📝 I regularly write articles on [narendra-blog.netlify.app](https://narendra-blog.netlify.app/)
 
