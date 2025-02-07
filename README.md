@@ -16,7 +16,7 @@ Hello, I'm Narendra, a passionate Designer and open source developer based. With
 
 - 📫 How to reach me **rendra.narendrayusuf@gmail.com**
 
-- ⚡ Fun fact **I get a little quirky at night :3**
+- ⚡ Fun fact **Goth girl :3**
 
 - 🕒 Contact me in **UTC (+7:00)** working time
 
