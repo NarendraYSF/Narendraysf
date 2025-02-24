@@ -20,8 +20,7 @@ Hello, I'm Narendra, a passionate Designer and open source developer based. With
 
 - 🕒 Contact me in **UTC (+7:00)** working time
 
-![NarendraYSF's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarendraYSF&show_icons=true&theme=radical&hide=prs,issues,contribs)
-
+![NarendraYSF's GitHub Stats](stats.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
