@@ -20,6 +20,8 @@ Hello, I'm Narendra, a passionate Designer and open source developer based. With
 
 - 🕒 Contact me in **UTC (+7:00)** working time
 
+![Total Stars](https://github-readme-stats.vercel.app/api?username=NarendraYSF&show_icons=true&hide=prs,issues,contribs&count_private=true&include_all_commits=true&custom_title=Total%20Stars)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nrndrysf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nrndrysf" height="30" width="40" /></a>
