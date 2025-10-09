@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Narendra Yusuf's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 234, Total Commits  : 297</desc>
+        <desc id="descId">Total Stars Earned: 234, Total Commits  : 299</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 157.18727773495291;
+        stroke-dashoffset: 157.14004564509094;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >297</text>
+      >299</text>
     </g>
   </g>
     </svg>
